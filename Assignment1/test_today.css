@@ -1,0 +1,31 @@
+
+
+p {
+    color: brown;
+    border: 5px solid gray;
+    padding: 10px;
+    margin: 20px;
+ 
+   
+}
+
+.class1{
+    min-height: 20vh;
+    font-size: large;
+    background-color: grey;
+}
+.class2{
+    min-height: 30vh;
+    font-size: larger;
+    background-color: rgb(25, 14, 179);
+}
+.class3{
+    min-height: 40vh;
+    font-size: x-large;
+    background-color: black;
+}
+.class4{
+    min-height: 50vh;
+    font-size: xx-large;
+    background-color: dodgerblue;
+}
