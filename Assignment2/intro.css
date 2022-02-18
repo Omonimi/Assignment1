@@ -50,12 +50,11 @@
      }
     
   
-    .lower grey{
+    .lowergrey{
       color: white;
       font-size: xx-large;  
       background-color: rgb(60, 60, 60);
-      ;
-   
+         
    }
    .footer {
     position: fixed;
