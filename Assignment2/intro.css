@@ -4,12 +4,9 @@
     color: white;
     text-align: right;
     font-size: x-large;
-    word-spacing: 30px;
-}
-    
-   a:hover {
-  background-color: rgb(26, 26, 109);
-  }
+    word-spacing: 50px;
+    text-decoration: none;
+    }
 
 .grey{
     background-color: rgb(60, 60, 60);
@@ -54,6 +51,9 @@
       color: white;
       font-size: xx-large;  
       background-color: rgb(60, 60, 60);
+      height: 8cm;
+      text-align: center;
+      padding-top: 3cm;
          
    }
    .footer {
@@ -62,4 +62,5 @@
     color: white;
     text-align: center;
     height: 8cm;
+   
    }
