@@ -1,0 +1,83 @@
+.brown{
+    background-color: brown;
+    height: 2cm;
+    color: white;
+    text-align: right;
+    font-size: x-large;
+    word-spacing: 50px;
+    text-decoration: none;
+        }
+
+     
+        .brown a {
+          float: right;
+          color: #eeeeee;
+          text-align: center;
+          padding: 25px 15px;
+          margin-right: 40px;
+          text-decoration: none;
+          font-size: 25px;
+          }
+
+          /* Change the link color to #111 (black) on hover */
+        .brown a:hover {
+  background-color: rgb(6, 53, 92);
+         
+        }
+        
+
+.grey{
+    background-color: rgb(60, 60, 60);
+    height: 10cm;
+    font-size: .85cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-top: 5cm;
+   
+      }
+.blue{
+    background-color: rgb(6, 53, 92);
+    height: 35cm;
+    font-size: 1.0cm;
+    text-align: center;
+    padding-top: 5cm;
+    color: white;
+
+  }
+  .grid {
+      display: grid;
+      grid-template-columns: auto auto auto;
+      margin-top: 40px;
+      margin-left:  80px;
+      margin-right:80px;
+      grid-gap: 60px;
+      
+     
+    }
+    .grid-item {
+      background-color: rgba(255, 255, 255, 0.8);
+      margin-top: 2px;
+      padding: 50px;
+      font-size: 30px;
+      text-align: center;
+      color: black;
+     }
+    
+  
+    .lowergrey{
+      color: white;
+      font-size: xx-large;  
+      background-color: rgb(60, 60, 60);
+      height: 8cm;
+      text-align: center;
+      padding-top: 3cm;
+         
+   }
+   .footer {
+   border-top: 4px solid red; 
+   height: 2cm;
+   background-color:rgb(60, 60, 60) ;
+   color: white;
+   font-size: large;
+   
+   }
