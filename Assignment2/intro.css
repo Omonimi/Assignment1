@@ -6,7 +6,25 @@
     font-size: x-large;
     word-spacing: 50px;
     text-decoration: none;
-    }
+        }
+
+     
+        .brown a {
+          float: right;
+          color: #eeeeee;
+          text-align: center;
+          padding: 25px 15px;
+          margin-right: 40px;
+          text-decoration: none;
+          font-size: 25px;
+          }
+
+          /* Change the link color to #111 (black) on hover */
+        .brown a:hover {
+  background-color: rgb(6, 53, 92);
+         
+        }
+        
 
 .grey{
     background-color: rgb(60, 60, 60);
@@ -30,17 +48,16 @@
       display: grid;
       grid-template-columns: auto auto auto;
       margin-top: 40px;
-      margin-left:  100px;
-      margin-right:100px;
+      margin-left:  80px;
+      margin-right:80px;
       grid-gap: 60px;
       
      
     }
     .grid-item {
       background-color: rgba(255, 255, 255, 0.8);
-      border: 1px solid rgba(0, 0, 0, 0.8);
       margin-top: 2px;
-      padding: 150px;
+      padding: 50px;
       font-size: 30px;
       text-align: center;
       color: black;
@@ -57,10 +74,10 @@
          
    }
    .footer {
-    position: fixed;
-    background-color: red;
-    color: white;
-    text-align: center;
-    height: 8cm;
+   border-top: 4px solid red; 
+   height: 2cm;
+   background-color:rgb(60, 60, 60) ;
+   color: white;
+   font-size: large;
    
    }
